@@ -1,8 +1,0 @@
-{
-
-  devServer: {
-    contentBase: path.join(__dirname, "dist"), // Serve files from the dist directory
-    compress: true, // Enable gzip compression
-    port: 9000, // The port to run the development server
-  },
-}
